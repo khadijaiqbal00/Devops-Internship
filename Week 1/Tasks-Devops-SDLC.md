@@ -33,3 +33,20 @@ Some common software development lifecycle models are:
 - Iterative Model: The iterative model is a repetitive approach that involves rapid prototyping and testing. It is often used in projects where the requirements are not well-defined, and the focus is on experimentation and innovation
 
 ![image](https://user-images.githubusercontent.com/82168872/229294314-f07c8f92-c82a-40bb-913c-5f05e7f28cbd.png)
+
+What is difference between Waterfall and Agile model?
+Waterfall model: 
+It is a linear and sequential approach where each stage of the software development process follows the previous one in a strict order. The stages include requirement gathering and analysis, design, implementation, testing, deployment, and maintenance. Once a stage is completed, the development team moves on to the next stage, and each stage must be completed before moving on to the next one. It is well-suited for projects where the requirements are well-defined and fixed, and there is little room for change or iteration.
+
+Agile model:
+It is a flexible and iterative approach that emphasizes collaboration, customer feedback, and rapid delivery. It is a continuous process that involves breaking down the project into smaller, manageable pieces called sprints. Each sprint consists of planning, designing, developing, testing, and delivering a working product increment. The Agile approach prioritizes delivering a minimum viable product (MVP) quickly, gathering feedback, and making changes based on that feedback. It is ideal for projects where requirements are likely to change frequently, and the focus is on delivering value to the customer continuously.
+
+Main Differences:
+The key differences between the Waterfall and Agile models are as follows:
+- Approach: Waterfall is a linear approach, while Agile is an iterative approach.
+- Flexibility: Waterfall is inflexible and does not allow for much change once a stage is completed, while Agile is flexible and allows for changes to be made at any point in the development process.
+- Requirements: Waterfall is suited for projects with well-defined and fixed requirements, while Agile is suited for projects where requirements are likely to change frequently.
+- Customer involvement: Waterfall does not involve the customer much during the development process, while Agile involves the customer throughout the development process.
+- Deliverables: Waterfall delivers a final product at the end of the development process, while Agile delivers working product increments continuously throughout the development process.
+![image](https://user-images.githubusercontent.com/82168872/229294448-78b88856-2ab0-4442-b096-1aa9a41fd0bb.png)
+
