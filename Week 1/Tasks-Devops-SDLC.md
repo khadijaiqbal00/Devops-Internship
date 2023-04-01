@@ -35,10 +35,13 @@ Some common software development lifecycle models are:
 ![image](https://user-images.githubusercontent.com/82168872/229294314-f07c8f92-c82a-40bb-913c-5f05e7f28cbd.png)
 
 What is difference between Waterfall and Agile model?
+
 Waterfall model: 
+
 It is a linear and sequential approach where each stage of the software development process follows the previous one in a strict order. The stages include requirement gathering and analysis, design, implementation, testing, deployment, and maintenance. Once a stage is completed, the development team moves on to the next stage, and each stage must be completed before moving on to the next one. It is well-suited for projects where the requirements are well-defined and fixed, and there is little room for change or iteration.
 
 Agile model:
+
 It is a flexible and iterative approach that emphasizes collaboration, customer feedback, and rapid delivery. It is a continuous process that involves breaking down the project into smaller, manageable pieces called sprints. Each sprint consists of planning, designing, developing, testing, and delivering a working product increment. The Agile approach prioritizes delivering a minimum viable product (MVP) quickly, gathering feedback, and making changes based on that feedback. It is ideal for projects where requirements are likely to change frequently, and the focus is on delivering value to the customer continuously.
 
 Main Differences:
@@ -49,4 +52,15 @@ The key differences between the Waterfall and Agile models are as follows:
 - Customer involvement: Waterfall does not involve the customer much during the development process, while Agile involves the customer throughout the development process.
 - Deliverables: Waterfall delivers a final product at the end of the development process, while Agile delivers working product increments continuously throughout the development process.
 ![image](https://user-images.githubusercontent.com/82168872/229294448-78b88856-2ab0-4442-b096-1aa9a41fd0bb.png)
+
+
+Brief history of DevOps.
+
+The history of DevOps can be traced back to the early 2000s, when software development was dominated by the traditional Waterfall model, which emphasized long development cycles and siloed development and operations teams. The lack of collaboration between these teams often resulted in delays and errors, making it difficult to deliver high-quality software quickly.
+In 2008, a group of IT professionals including Patrick Debois, Andrew Shafer, and John Allspaw organized the first DevOpsDays conference in Ghent, Belgium. This conference brought together software developers, operations professionals, and other IT experts to discuss ways to improve collaboration and communication between development and operations teams.
+Around the same time, the Agile software development methodology was gaining popularity, emphasizing collaboration, flexibility, and rapid delivery. This approach helped set the stage for DevOps by breaking down the barriers between development and operations and emphasizing teamwork and continuous improvement.
+In 2009, the term "DevOps" was coined by Patrick Debois, who used it to describe the growing movement of collaboration between development and operations teams. DevOps quickly gained momentum, and by 2011, major technology companies like Amazon, Netflix, and Etsy were using DevOps practices to deliver software faster and with greater reliability.
+
+Since then, DevOps has continued to evolve and expand, with a growing emphasis on automation, continuous delivery, and infrastructure as code. Today, DevOps is an essential part of modern software development, helping teams to deliver high-quality software quickly and efficiently.
+![image](https://user-images.githubusercontent.com/82168872/229295903-f2c3226f-77d7-4a40-9895-f50c37949308.png)
 
