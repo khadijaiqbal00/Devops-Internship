@@ -1,0 +1,21 @@
+What is devOps ?
+DevOps stands for Development and Operations. DevOps is not a tool or a team, it is the process or a methodology of using various tools to solve the problems between Developers and Operations team. DevOps helps you to reduce the disconnection between software developers, quality assurance (QA) engineers, and system administrators. DevOps use for Implementing automation on each and every stage.
+It’s a practice that aims at merging development, quality assurance, and operations (deployment and integration) into a single, continuous set of processes. 
+DevOps Advantages: 
+- Higher speed and quality of product releases: DevOps speeds up product release by introducing continuous delivery, encouraging faster feedback, and allowing developers to fix bugs in the system in the early stages. Practicing DevOps, the team can focus on the quality of the product and automate a number of processes.
+- Faster responsiveness to customer needs: With DevOps, a team can react to change requests from customers faster, adding new and updating existing features. As a result, the time-to-market and value-delivery rates increase.
+- Better working environment: DevOps principles and practices lead to better communication between team members, and increased productivity and agility. Teams that practice DevOps are considered to be more productive and cross-skilled. 
+DevOps DisAdvantages: 
+- DevOps professional or expert's developers are less available.
+- Developing with DevOps is so expensive.
+- Adopting new DevOps technology into the industries is hard to manage in short time.
+- Lack of DevOps knowledge can be a problem in the continuous integration of automation projects.
+
+What is devops Culture ? 
+- DevOps culture is a set of values, practices, and beliefs that promote collaboration, communication, and continuous improvement between software developers and IT operations teams. 
+- Key practices that embody the DevOps culture include:
+- Agile methodologies that prioritize incremental, iterative development and frequent releases
+- Continuous integration and continuous delivery (CI/CD) pipelines that automate the testing, building, and deployment of software
+- Infrastructure as code (IaC) practices that automate the provisioning and management of IT infrastructure
+- Monitoring and logging practices that provide real-time visibility into the performance and health of software systems.
+- Overall, the DevOps culture is about empowering teams to work together to deliver better software, faster, and with a focus on continuously improving the process.
