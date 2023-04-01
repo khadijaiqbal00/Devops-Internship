@@ -36,6 +36,6 @@ Pair programming can also help reduce the risk of knowledge silos and increase o
 
 While pair programming can be a powerful technique, it is not always suitable for every task or team. Some developers may find it challenging to work in such a collaborative environment, and the technique can be time-consuming and resource-intensive. 
 
-![image](https://user-images.githubusercontent.com/82168872/229296462-1e415b61-da4f-478a-9060-2ebf0177e16d.png)
+![image](https://user-images.githubusercontent.com/82168872/229296574-065cb546-8607-4cbd-8b0b-18cb93b9b8a4.png)
 
 
