@@ -1,4 +1,5 @@
 What is devOps ?
+
 DevOps stands for Development and Operations. DevOps is not a tool or a team, it is the process or a methodology of using various tools to solve the problems between Developers and Operations team. DevOps helps you to reduce the disconnection between software developers, quality assurance (QA) engineers, and system administrators. DevOps use for Implementing automation on each and every stage.
 It’s a practice that aims at merging development, quality assurance, and operations (deployment and integration) into a single, continuous set of processes. 
 DevOps Advantages: 
