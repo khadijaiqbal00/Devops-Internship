@@ -10,6 +10,8 @@ DevOps DisAdvantages:
 - Developing with DevOps is so expensive.
 - Adopting new DevOps technology into the industries is hard to manage in short time.
 - Lack of DevOps knowledge can be a problem in the continuous integration of automation projects.
+![image](https://user-images.githubusercontent.com/82168872/229294220-fb7cb1ff-d224-41bb-bc6f-6a938c6193f2.png)
+
 
 What is devops Culture ? 
 - DevOps culture is a set of values, practices, and beliefs that promote collaboration, communication, and continuous improvement between software developers and IT operations teams. 
