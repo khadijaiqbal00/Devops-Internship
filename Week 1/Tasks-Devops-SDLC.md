@@ -57,8 +57,11 @@ The key differences between the Waterfall and Agile models are as follows:
 Brief history of DevOps.
 
 The history of DevOps can be traced back to the early 2000s, when software development was dominated by the traditional Waterfall model, which emphasized long development cycles and siloed development and operations teams. The lack of collaboration between these teams often resulted in delays and errors, making it difficult to deliver high-quality software quickly.
+
 In 2008, a group of IT professionals including Patrick Debois, Andrew Shafer, and John Allspaw organized the first DevOpsDays conference in Ghent, Belgium. This conference brought together software developers, operations professionals, and other IT experts to discuss ways to improve collaboration and communication between development and operations teams.
+
 Around the same time, the Agile software development methodology was gaining popularity, emphasizing collaboration, flexibility, and rapid delivery. This approach helped set the stage for DevOps by breaking down the barriers between development and operations and emphasizing teamwork and continuous improvement.
+
 In 2009, the term "DevOps" was coined by Patrick Debois, who used it to describe the growing movement of collaboration between development and operations teams. DevOps quickly gained momentum, and by 2011, major technology companies like Amazon, Netflix, and Etsy were using DevOps practices to deliver software faster and with greater reliability.
 
 Since then, DevOps has continued to evolve and expand, with a growing emphasis on automation, continuous delivery, and infrastructure as code. Today, DevOps is an essential part of modern software development, helping teams to deliver high-quality software quickly and efficiently.
