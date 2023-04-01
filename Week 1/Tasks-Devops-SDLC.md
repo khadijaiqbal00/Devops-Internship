@@ -32,4 +32,4 @@ Some common software development lifecycle models are:
 - V-Model: The V-Model is a variation of the waterfall model, where testing is emphasized at every stage. It is a highly structured approach that is often used in safety-critical systems, where testing is crucial.
 - Iterative Model: The iterative model is a repetitive approach that involves rapid prototyping and testing. It is often used in projects where the requirements are not well-defined, and the focus is on experimentation and innovation
 
-                    ![image](https://user-images.githubusercontent.com/82168872/229294314-f07c8f92-c82a-40bb-913c-5f05e7f28cbd.png)
+![image](https://user-images.githubusercontent.com/82168872/229294314-f07c8f92-c82a-40bb-913c-5f05e7f28cbd.png)
